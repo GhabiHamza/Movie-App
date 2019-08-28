@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.name-rating{
+  padding:35px;
+  
+}
+
+#header-text{
+  width: 468px;
+  margin-left: 81px;
+}
+.rating{
+  margin-left: 25px;
+}
+.card1{
+  width: 33% ;
+  
+}
+.prompt-button{
+  padding: 41px;
+    margin-right: 897px;
+    width: 240px;
+}
